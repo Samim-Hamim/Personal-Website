@@ -113,6 +113,11 @@ box-shadow: 10px 10px 40px #ff2e74d1;
     color: white;
     
 }
+.contact{
+
+    font-size: 40px!important;
+
+    }
 footer{
     background: #760aff24;
 padding: 1px;
@@ -165,7 +170,7 @@ footer p{
     }
     .contact{
 
-    font-size: 30px!important;
+    font-size: 25px!important;
 
     }
     .last h2 {
@@ -179,7 +184,7 @@ footer p{
         margin: 0 auto;
     }
     h2 {
-        font-size: 35px;
+        font-size: 30px;
         text-align: center;
     }
     a {
